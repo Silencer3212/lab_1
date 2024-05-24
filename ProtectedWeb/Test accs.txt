@@ -1,0 +1,14 @@
+[Admin]
+login: Admin
+email: admin@example.com
+password: ~p#Z@~i5GCN%
+
+[Moderator]
+login: Moderator
+email: moderator@example.com
+password: 09XRUhO1*G73
+
+[User]
+login: User
+email: user@example.com
+password: DbtjbZCRlDO6

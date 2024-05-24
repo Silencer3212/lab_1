@@ -1,0 +1,110 @@
+﻿@page 
+@model ProtectedWeb.Pages.Sneaker.CatalogModel
+@using Utils;
+@{
+    string token = this.ViewContext.HttpContext.Request.Cookies["access_token"];
+    bool isAdmin = UserMethods.HaveAdminRights(token);
+}
+@{
+    @if (isAdmin)
+    {
+        <div class="container text-left">
+            <a href="/Sneaker/Add" class="btn btn-primary">Добавить</a>
+        </div>
+    }
+    @if (Model.isEmpty)
+    {
+        <h2>Товаров нет</h2>
+    }
+    else
+    {
+        <div class="container">
+            <div class="row">
+                @foreach (CardInfo sneaker in Model.Sneakers)
+                {
+                    <div class="col-md-4 mb-4">
+                        <a href="~/Sneaker/Info?id=@sneaker.Id" class="text-decoration-none text-dark">
+                            <div class="card" style="width: 100%;">
+                                @if (sneaker.Logo == null)
+                                {
+                                    <img src="~/images/sneaker/placeholder.jpg" class="card-img-top" alt="Sneaker Image">
+                                }
+                                else
+                                {
+                                    <img src="~/images/sneaker/@sneaker.Logo" class="card-img-top" alt="Sneaker Image">
+                                }
+                                <div class="card-body">
+                                    <h5 class="card-title">@sneaker.Manufacturer.Name @sneaker.Name</h5>
+                                    @if (sneaker.Description != null)
+                                    {
+                                        <p class="card-text">@sneaker.Description</p>
+                                    }
+                                    <p class="card-text"><strong>Производитель:</strong> @sneaker.Manufacturer.Name</p>
+                                    @if (sneaker.Rating == null)
+                                    {
+                                        <p class="card-text"><strong>Оценка:</strong> - </p>
+                                    }
+                                    else
+                                    {
+                                        <p class="card-text"><strong>Оценка:</strong>@string.Join("", Enumerable.Repeat("★", (int)sneaker.Rating))@string.Join("", Enumerable.Repeat("☆", 5-(int)sneaker.Rating))</p>
+                                    }
+                                </div>
+                            </div>
+                        </a>
+                        @if (isAdmin)
+                        {
+                            <div class="container text-left">
+                                <a href="/Sneaker/Edit?id=@sneaker.Id" class="btn btn-primary">Редактировать</a>
+                            </div>
+                            <form method="post" id="remove" asp-anti-forgery="true" enctype="multipart/form-data">
+                                <div class="container text-left">
+                                    <input value="@sneaker.Id" asp-for="Id" type="hidden" required readonly>
+                                    <button type="submit" class="btn btn-danger">Удалить</button>
+                                </div>
+                            </form>
+                        }
+                    </div>
+                }
+            </div>
+        </div>
+        <nav aria-label="Page navigation">
+            <ul class="pagination justify-content-center">
+                @if (Model.Page != 1)
+                {
+                    <li class="page-item">
+                        <a class="page-link" href="/Sneaker/Catalog?page=@(Model.Page - 1)" aria-disabled="true">Предыдущая</a>
+                    </li>
+                    <li class="page-item">
+                        <a class="page-link" href="/Sneaker/Catalog?page=1">1</a>
+                    </li>
+                    @if (Model.Page != 2)
+                    {
+                        <li class="page-item disabled"><span class="page-link">...</span></li>
+                    }
+                    <li class="page-item active">
+                        <a class="page-link" href="/Sneaker/Catalog?page=@Model.Page">@Model.Page</a>
+                    </li>
+                }
+                else
+                {
+                    <li class="page-item active">
+                        <a class="page-link" href="/Sneaker/Catalog?page=1">1</a>
+                    </li>
+                }
+                @if (Model.Page != Model.TotalPages)
+                {
+                    @if (Model.Page != Model.TotalPages - 1)
+                    {
+                        <li class="page-item disabled"><span class="page-link">...</span></li>
+                    }
+                    <li class="page-item">
+                        <a class="page-link" href="/Sneaker/Catalog?page=@Model.TotalPages">@Model.Page</a>
+                    </li>
+                    <li class="page-item">
+                        <a class="page-link" href="/Sneaker/Catalog?page=@(Model.Page + 1)">Следующая</a>
+                    </li>
+                }
+            </ul>
+        </nav>
+    }
+}

@@ -1,0 +1,35 @@
+﻿@page
+@model ProtectedWeb.Pages.Sneaker.AddModel
+@{
+    <div class="container mt-5">
+        <div class="row justify-content-center">
+            <div class="col-md-6">
+                <h2 class="mb-4">Добавление кроссовок</h2>
+                <form method="post" id="editForm" asp-anti-forgery="true" enctype="multipart/form-data">
+                    <div class="form-group">
+                        <label for="Name">Название:</label>
+                        <input type="text" class="form-control" id="Name" asp-for="Name" value="@Model.Name" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="Logo">Фото</label>
+                        <input type="file" class="form-control-file" id="Logo" asp-for="Logo">
+                    </div>
+                    <div class="form-group">
+                        <label for="Description">Описание:</label>
+                        <textarea class="form-control" id="Description" asp-for="Description" rows="4">@Model.Description</textarea>
+                    </div>
+                    <div class="form-group">
+                        <label for="Manufacturer">Производитель:</label>
+                        <select class="form-control" id="Manufacturer" asp-for="SelectedManufacturerId">
+                            @foreach(Models.Manufacturer manufacturer in Model.Manufacturers)
+                            {
+                                <option value="@manufacturer.Id">@manufacturer.Name</option>
+                            }
+                        </select>
+                    </div>
+                    <button type="submit" class="btn btn-primary">Сохранить изменения</button>
+                </form>
+            </div>
+        </div>
+    </div>
+}

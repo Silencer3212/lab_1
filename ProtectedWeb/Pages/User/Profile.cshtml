@@ -1,0 +1,54 @@
+﻿@page
+@model ProtectedWeb.Pages.User.ProfileModel
+@{
+    <div class="container mt-5">
+        <div class="row">
+            <div class="col-md-4">
+                <div class="card">
+                    <div class="card-body">
+                        @if (Model.Avatar == null)
+                        {
+                            <img src="~/images/user/placeholder.jpg" alt="User Avatar" class="img-fluid mb-3">
+                        }
+                        else
+                        {
+                            <img src="~/images/user/@Model.Avatar" alt="User Avatar" class="img-fluid mb-3">
+                        }
+                        <h5 class="card-title">@Model.Name</h5>
+                        <p class="card-text">@Model.Email</p>
+                        <button id="editButton" class="btn btn-primary">Редактировать профиль</button>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-8">
+                <form method="post" enctype="multipart/form-data" id="dataForm" asp-anti-forgery="true">
+                    <div class="form-group">
+                        <label for="Name">Имя</label>
+                        <input type="text" class="form-control" id="Name" value="@Model.Name" asp-for="Name" required readonly>
+                        <span asp-validation-for="Name" />
+                    </div>
+                    <div class="form-group">
+                        <label for="email">Электронная почта</label>
+                        <input type="email" class="form-control" id="email" value="@Model.Email" readonly>
+                    </div>
+                    <div class="form-group">
+                        <label for="AvatarFile">Аватар</label>
+                        <input type="file" class="form-control-file" id="AvatarFile" asp-for="AvatarFile" disabled>
+                    </div>
+                    <button type="submit" class="btn btn-primary" disabled>Сохранить изменения</button>
+                </form>
+            </div>
+        </div>
+    </div>
+    <script>
+        document.getElementById('editButton').addEventListener('click', function () {
+            var formElements = document.querySelectorAll('form input, form button');
+            formElements.forEach(function (element) {
+                if (element.id !== 'email') {
+                    element.removeAttribute('readonly');
+                    element.removeAttribute('disabled');
+                }
+            });
+        });
+    </script>
+}

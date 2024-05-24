@@ -1,0 +1,213 @@
+C:\Users\dokwe\OneDrive\Рабочий стол\Лабы\Основы web-безопасности\ProtectedWeb\ProtectedWeb\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\dokwe\OneDrive\Рабочий стол\Лабы\Основы web-безопасности\ProtectedWeb\ProtectedWeb\bin\Debug\net6.0\appsettings.json
+C:\Users\dokwe\OneDrive\Рабочий стол\Лабы\Основы web-безопасности\ProtectedWeb\ProtectedWeb\bin\Debug\net6.0\ProtectedWeb.staticwebassets.runtime.json
+C:\Users\dokwe\OneDrive\Рабочий стол\Лабы\Основы web-безопасности\ProtectedWeb\ProtectedWeb\bin\Debug\net6.0\ProtectedWeb.exe
+C:\Users\dokwe\OneDrive\Рабочий стол\Лабы\Основы web-безопасности\ProtectedWeb\ProtectedWeb\bin\Debug\net6.0\ProtectedWeb.deps.json
+C:\Users\dokwe\OneDrive\Рабочий стол\Лабы\Основы web-безопасности\ProtectedWeb\ProtectedWeb\bin\Debug\net6.0\ProtectedWeb.runtimeconfig.json
+C:\Users\dokwe\OneDrive\Рабочий стол\Лабы\Основы web-безопасности\ProtectedWeb\ProtectedWeb\bin\Debug\net6.0\ProtectedWeb.dll
+C:\Users\dokwe\OneDrive\Рабочий стол\Лабы\Основы web-безопасности\ProtectedWeb\ProtectedWeb\bin\Debug\net6.0\ProtectedWeb.pdb
+C:\Users\dokwe\OneDrive\Рабочий стол\Лабы\Основы web-безопасности\ProtectedWeb\ProtectedWeb\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\dokwe\OneDrive\Рабочий стол\Лабы\Основы web-безопасности\ProtectedWeb\ProtectedWeb\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\dokwe\OneDrive\Рабочий стол\Лабы\Основы web-безопасности\ProtectedWeb\ProtectedWeb\bin\Debug\net6.0\Humanizer.dll
+C:\Users\dokwe\OneDrive\Рабочий стол\Лабы\Основы web-безопасности\ProtectedWeb\ProtectedWeb\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\dokwe\OneDrive\Рабочий стол\Лабы\Основы web-безопасности\ProtectedWeb\ProtectedWeb\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dokwe\OneDrive\Рабочий стол\Лабы\Основы web-безопасности\ProtectedWeb\ProtectedWeb\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\dokwe\OneDrive\Рабочий стол\Лабы\Основы web-безопасности\ProtectedWeb\ProtectedWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\dokwe\OneDrive\Рабочий стол\Лабы\Основы web-безопасности\ProtectedWeb\ProtectedWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\dokwe\OneDrive\Рабочий стол\Лабы\Основы web-безопасности\ProtectedWeb\ProtectedWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\dokwe\OneDrive\Рабочий стол\Лабы\Основы web-безопасности\ProtectedWeb\ProtectedWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\dokwe\OneDrive\Рабочий стол\Лабы\Основы web-безопасности\ProtectedWeb\ProtectedWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\dokwe\OneDrive\Рабочий стол\Лабы\Основы web-безопасности\ProtectedWeb\ProtectedWeb\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\dokwe\OneDrive\Рабочий стол\Лабы\Основы web-безопасности\ProtectedWeb\ProtectedWeb\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\dokwe\OneDrive\Рабочий стол\Лабы\Основы web-безопасности\ProtectedWeb\ProtectedWeb\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\dokwe\OneDrive\Рабочий стол\Лабы\Основы web-безопасности\ProtectedWeb\ProtectedWeb\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\dokwe\OneDrive\Рабочий стол\Лабы\Основы web-безопасности\ProtectedWeb\ProtectedWeb\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\dokwe\OneDrive\Рабочий стол\Лабы\Основы web-безопасности\ProtectedWeb\ProtectedWeb\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\dokwe\OneDrive\Рабочий стол\Лабы\Основы web-безопасности\ProtectedWeb\ProtectedWeb\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\dokwe\OneDrive\Рабочий стол\Лабы\Основы web-безопасности\ProtectedWeb\ProtectedWeb\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\dokwe\OneDrive\Рабочий стол\Лабы\Основы web-безопасности\ProtectedWeb\ProtectedWeb\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\dokwe\OneDrive\Рабочий стол\Лабы\Основы web-безопасности\ProtectedWeb\ProtectedWeb\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\dokwe\OneDrive\Рабочий стол\Лабы\Основы web-безопасности\ProtectedWeb\ProtectedWeb\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\dokwe\OneDrive\Рабочий стол\Лабы\Основы web-безопасности\ProtectedWeb\ProtectedWeb\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\dokwe\OneDrive\Рабочий стол\Лабы\Основы web-безопасности\ProtectedWeb\ProtectedWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\dokwe\OneDrive\Рабочий стол\Лабы\Основы web-безопасности\ProtectedWeb\ProtectedWeb\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\dokwe\OneDrive\Рабочий стол\Лабы\Основы web-безопасности\ProtectedWeb\ProtectedWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\dokwe\OneDrive\Рабочий стол\Лабы\Основы web-безопасности\ProtectedWeb\ProtectedWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\dokwe\OneDrive\Рабочий стол\Лабы\Основы web-безопасности\ProtectedWeb\ProtectedWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\dokwe\OneDrive\Рабочий стол\Лабы\Основы web-безопасности\ProtectedWeb\ProtectedWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\dokwe\OneDrive\Рабочий стол\Лабы\Основы web-безопасности\ProtectedWeb\ProtectedWeb\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\dokwe\OneDrive\Рабочий стол\Лабы\Основы web-безопасности\ProtectedWeb\ProtectedWeb\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\dokwe\OneDrive\Рабочий стол\Лабы\Основы web-безопасности\ProtectedWeb\ProtectedWeb\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\dokwe\OneDrive\Рабочий стол\Лабы\Основы web-безопасности\ProtectedWeb\ProtectedWeb\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\dokwe\OneDrive\Рабочий стол\Лабы\Основы web-безопасности\ProtectedWeb\ProtectedWeb\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\dokwe\OneDrive\Рабочий стол\Лабы\Основы web-безопасности\ProtectedWeb\ProtectedWeb\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\dokwe\OneDrive\Рабочий стол\Лабы\Основы web-безопасности\ProtectedWeb\ProtectedWeb\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\dokwe\OneDrive\Рабочий стол\Лабы\Основы web-безопасности\ProtectedWeb\ProtectedWeb\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\dokwe\OneDrive\Рабочий стол\Лабы\Основы web-безопасности\ProtectedWeb\ProtectedWeb\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\dokwe\OneDrive\Рабочий стол\Лабы\Основы web-безопасности\ProtectedWeb\ProtectedWeb\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dokwe\OneDrive\Рабочий стол\Лабы\Основы web-безопасности\ProtectedWeb\ProtectedWeb\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\dokwe\OneDrive\Рабочий стол\Лабы\Основы web-безопасности\ProtectedWeb\ProtectedWeb\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\dokwe\OneDrive\Рабочий стол\Лабы\Основы web-безопасности\ProtectedWeb\ProtectedWeb\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\dokwe\OneDrive\Рабочий стол\Лабы\Основы web-безопасности\ProtectedWeb\ProtectedWeb\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\dokwe\OneDrive\Рабочий стол\Лабы\Основы web-безопасности\ProtectedWeb\ProtectedWeb\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\dokwe\OneDrive\Рабочий стол\Лабы\Основы web-безопасности\ProtectedWeb\ProtectedWeb\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\dokwe\OneDrive\Рабочий стол\Лабы\Основы web-безопасности\ProtectedWeb\ProtectedWeb\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dokwe\OneDrive\Рабочий стол\Лабы\Основы web-безопасности\ProtectedWeb\ProtectedWeb\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dokwe\OneDrive\Рабочий стол\Лабы\Основы web-безопасности\ProtectedWeb\ProtectedWeb\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dokwe\OneDrive\Рабочий стол\Лабы\Основы web-безопасности\ProtectedWeb\ProtectedWeb\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dokwe\OneDrive\Рабочий стол\Лабы\Основы web-безопасности\ProtectedWeb\ProtectedWeb\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\dokwe\OneDrive\Рабочий стол\Лабы\Основы web-безопасности\ProtectedWeb\ProtectedWeb\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\dokwe\OneDrive\Рабочий стол\Лабы\Основы web-безопасности\ProtectedWeb\ProtectedWeb\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\dokwe\OneDrive\Рабочий стол\Лабы\Основы web-безопасности\ProtectedWeb\ProtectedWeb\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\dokwe\OneDrive\Рабочий стол\Лабы\Основы web-безопасности\ProtectedWeb\ProtectedWeb\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dokwe\OneDrive\Рабочий стол\Лабы\Основы web-безопасности\ProtectedWeb\ProtectedWeb\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\dokwe\OneDrive\Рабочий стол\Лабы\Основы web-безопасности\ProtectedWeb\ProtectedWeb\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\dokwe\OneDrive\Рабочий стол\Лабы\Основы web-безопасности\ProtectedWeb\ProtectedWeb\obj\Debug\net6.0\ProtectedWeb.csproj.AssemblyReference.cache
+C:\Users\dokwe\OneDrive\Рабочий стол\Лабы\Основы web-безопасности\ProtectedWeb\ProtectedWeb\obj\Debug\net6.0\ProtectedWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dokwe\OneDrive\Рабочий стол\Лабы\Основы web-безопасности\ProtectedWeb\ProtectedWeb\obj\Debug\net6.0\ProtectedWeb.AssemblyInfoInputs.cache
+C:\Users\dokwe\OneDrive\Рабочий стол\Лабы\Основы web-безопасности\ProtectedWeb\ProtectedWeb\obj\Debug\net6.0\ProtectedWeb.AssemblyInfo.cs
+C:\Users\dokwe\OneDrive\Рабочий стол\Лабы\Основы web-безопасности\ProtectedWeb\ProtectedWeb\obj\Debug\net6.0\ProtectedWeb.csproj.CoreCompileInputs.cache
+C:\Users\dokwe\OneDrive\Рабочий стол\Лабы\Основы web-безопасности\ProtectedWeb\ProtectedWeb\obj\Debug\net6.0\ProtectedWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dokwe\OneDrive\Рабочий стол\Лабы\Основы web-безопасности\ProtectedWeb\ProtectedWeb\obj\Debug\net6.0\ProtectedWeb.RazorAssemblyInfo.cache
+C:\Users\dokwe\OneDrive\Рабочий стол\Лабы\Основы web-безопасности\ProtectedWeb\ProtectedWeb\obj\Debug\net6.0\ProtectedWeb.RazorAssemblyInfo.cs
+C:\Users\dokwe\OneDrive\Рабочий стол\Лабы\Основы web-безопасности\ProtectedWeb\ProtectedWeb\obj\Debug\net6.0\staticwebassets\msbuild.ProtectedWeb.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\dokwe\OneDrive\Рабочий стол\Лабы\Основы web-безопасности\ProtectedWeb\ProtectedWeb\obj\Debug\net6.0\staticwebassets\msbuild.build.ProtectedWeb.props
+C:\Users\dokwe\OneDrive\Рабочий стол\Лабы\Основы web-безопасности\ProtectedWeb\ProtectedWeb\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProtectedWeb.props
+C:\Users\dokwe\OneDrive\Рабочий стол\Лабы\Основы web-безопасности\ProtectedWeb\ProtectedWeb\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProtectedWeb.props
+C:\Users\dokwe\OneDrive\Рабочий стол\Лабы\Основы web-безопасности\ProtectedWeb\ProtectedWeb\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\dokwe\OneDrive\Рабочий стол\Лабы\Основы web-безопасности\ProtectedWeb\ProtectedWeb\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\dokwe\OneDrive\Рабочий стол\Лабы\Основы web-безопасности\ProtectedWeb\ProtectedWeb\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\dokwe\OneDrive\Рабочий стол\Лабы\Основы web-безопасности\ProtectedWeb\ProtectedWeb\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\dokwe\OneDrive\Рабочий стол\Лабы\Основы web-безопасности\ProtectedWeb\ProtectedWeb\obj\Debug\net6.0\scopedcss\bundle\ProtectedWeb.styles.css
+C:\Users\dokwe\OneDrive\Рабочий стол\Лабы\Основы web-безопасности\ProtectedWeb\ProtectedWeb\obj\Debug\net6.0\scopedcss\projectbundle\ProtectedWeb.bundle.scp.css
+C:\Users\dokwe\OneDrive\Рабочий стол\Лабы\Основы web-безопасности\ProtectedWeb\ProtectedWeb\obj\Debug\net6.0\ProtectedWeb.csproj.CopyComplete
+C:\Users\dokwe\OneDrive\Рабочий стол\Лабы\Основы web-безопасности\ProtectedWeb\ProtectedWeb\obj\Debug\net6.0\ProtectedWeb.dll
+C:\Users\dokwe\OneDrive\Рабочий стол\Лабы\Основы web-безопасности\ProtectedWeb\ProtectedWeb\obj\Debug\net6.0\refint\ProtectedWeb.dll
+C:\Users\dokwe\OneDrive\Рабочий стол\Лабы\Основы web-безопасности\ProtectedWeb\ProtectedWeb\obj\Debug\net6.0\ProtectedWeb.pdb
+C:\Users\dokwe\OneDrive\Рабочий стол\Лабы\Основы web-безопасности\ProtectedWeb\ProtectedWeb\obj\Debug\net6.0\ProtectedWeb.genruntimeconfig.cache
+C:\Users\dokwe\OneDrive\Рабочий стол\Лабы\Основы web-безопасности\ProtectedWeb\ProtectedWeb\obj\Debug\net6.0\ref\ProtectedWeb.dll
+C:\Users\dokwe\OneDrive\Рабочий стол\Лабы\Основы web-безопасности\ProtectedWeb\ProtectedWeb\bin\Debug\net6.0\SixLabors.ImageSharp.dll
+C:\Users\vlad_\OneDrive\Рабочий стол\ProtectedWeb2\ProtectedWeb\obj\Debug\net6.0\ProtectedWeb.csproj.AssemblyReference.cache
+C:\Users\vlad_\OneDrive\Рабочий стол\ProtectedWeb2\ProtectedWeb\obj\Debug\net6.0\ProtectedWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vlad_\OneDrive\Рабочий стол\ProtectedWeb2\ProtectedWeb\obj\Debug\net6.0\ProtectedWeb.AssemblyInfoInputs.cache
+C:\Users\vlad_\OneDrive\Рабочий стол\ProtectedWeb2\ProtectedWeb\obj\Debug\net6.0\ProtectedWeb.AssemblyInfo.cs
+C:\Users\vlad_\OneDrive\Рабочий стол\ProtectedWeb2\ProtectedWeb\obj\Debug\net6.0\ProtectedWeb.csproj.CoreCompileInputs.cache
+C:\Users\vlad_\OneDrive\Рабочий стол\ProtectedWeb2\ProtectedWeb\obj\Debug\net6.0\ProtectedWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vlad_\OneDrive\Рабочий стол\ProtectedWeb2\ProtectedWeb\obj\Debug\net6.0\ProtectedWeb.RazorAssemblyInfo.cache
+C:\Users\vlad_\OneDrive\Рабочий стол\ProtectedWeb2\ProtectedWeb\obj\Debug\net6.0\ProtectedWeb.RazorAssemblyInfo.cs
+C:\Users\vlad_\OneDrive\Рабочий стол\ProtectedWeb2\ProtectedWeb\obj\Debug\net6.0\ProtectedWeb.dll
+C:\Users\vlad_\OneDrive\Рабочий стол\ProtectedWeb2\ProtectedWeb\obj\Debug\net6.0\refint\ProtectedWeb.dll
+C:\Users\vlad_\OneDrive\Рабочий стол\ProtectedWeb2\ProtectedWeb\obj\Debug\net6.0\ProtectedWeb.pdb
+C:\Users\vlad_\OneDrive\Рабочий стол\ProtectedWeb2\ProtectedWeb\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\vlad_\OneDrive\Рабочий стол\ProtectedWeb2\ProtectedWeb\bin\Debug\net6.0\appsettings.json
+C:\Users\vlad_\OneDrive\Рабочий стол\ProtectedWeb2\ProtectedWeb\bin\Debug\net6.0\ProtectedWeb.staticwebassets.runtime.json
+C:\Users\vlad_\OneDrive\Рабочий стол\ProtectedWeb2\ProtectedWeb\bin\Debug\net6.0\ProtectedWeb.exe
+C:\Users\vlad_\OneDrive\Рабочий стол\ProtectedWeb2\ProtectedWeb\bin\Debug\net6.0\ProtectedWeb.deps.json
+C:\Users\vlad_\OneDrive\Рабочий стол\ProtectedWeb2\ProtectedWeb\bin\Debug\net6.0\ProtectedWeb.runtimeconfig.json
+C:\Users\vlad_\OneDrive\Рабочий стол\ProtectedWeb2\ProtectedWeb\bin\Debug\net6.0\ProtectedWeb.dll
+C:\Users\vlad_\OneDrive\Рабочий стол\ProtectedWeb2\ProtectedWeb\bin\Debug\net6.0\ProtectedWeb.pdb
+C:\Users\vlad_\OneDrive\Рабочий стол\ProtectedWeb2\ProtectedWeb\bin\Debug\net6.0\Humanizer.dll
+C:\Users\vlad_\OneDrive\Рабочий стол\ProtectedWeb2\ProtectedWeb\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\vlad_\OneDrive\Рабочий стол\ProtectedWeb2\ProtectedWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\vlad_\OneDrive\Рабочий стол\ProtectedWeb2\ProtectedWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\vlad_\OneDrive\Рабочий стол\ProtectedWeb2\ProtectedWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\vlad_\OneDrive\Рабочий стол\ProtectedWeb2\ProtectedWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\vlad_\OneDrive\Рабочий стол\ProtectedWeb2\ProtectedWeb\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\vlad_\OneDrive\Рабочий стол\ProtectedWeb2\ProtectedWeb\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\vlad_\OneDrive\Рабочий стол\ProtectedWeb2\ProtectedWeb\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\vlad_\OneDrive\Рабочий стол\ProtectedWeb2\ProtectedWeb\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\vlad_\OneDrive\Рабочий стол\ProtectedWeb2\ProtectedWeb\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\vlad_\OneDrive\Рабочий стол\ProtectedWeb2\ProtectedWeb\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\vlad_\OneDrive\Рабочий стол\ProtectedWeb2\ProtectedWeb\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\vlad_\OneDrive\Рабочий стол\ProtectedWeb2\ProtectedWeb\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\vlad_\OneDrive\Рабочий стол\ProtectedWeb2\ProtectedWeb\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\vlad_\OneDrive\Рабочий стол\ProtectedWeb2\ProtectedWeb\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\vlad_\OneDrive\Рабочий стол\ProtectedWeb2\ProtectedWeb\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\vlad_\OneDrive\Рабочий стол\ProtectedWeb2\ProtectedWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\vlad_\OneDrive\Рабочий стол\ProtectedWeb2\ProtectedWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\vlad_\OneDrive\Рабочий стол\ProtectedWeb2\ProtectedWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\vlad_\OneDrive\Рабочий стол\ProtectedWeb2\ProtectedWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\vlad_\OneDrive\Рабочий стол\ProtectedWeb2\ProtectedWeb\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\vlad_\OneDrive\Рабочий стол\ProtectedWeb2\ProtectedWeb\bin\Debug\net6.0\Npgsql.dll
+C:\Users\vlad_\OneDrive\Рабочий стол\ProtectedWeb2\ProtectedWeb\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\vlad_\OneDrive\Рабочий стол\ProtectedWeb2\ProtectedWeb\bin\Debug\net6.0\SixLabors.ImageSharp.dll
+C:\Users\vlad_\OneDrive\Рабочий стол\ProtectedWeb2\ProtectedWeb\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\vlad_\OneDrive\Рабочий стол\ProtectedWeb2\ProtectedWeb\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\vlad_\OneDrive\Рабочий стол\ProtectedWeb2\ProtectedWeb\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\vlad_\OneDrive\Рабочий стол\ProtectedWeb2\ProtectedWeb\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\vlad_\OneDrive\Рабочий стол\ProtectedWeb2\ProtectedWeb\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\vlad_\OneDrive\Рабочий стол\ProtectedWeb2\ProtectedWeb\obj\Debug\net6.0\staticwebassets\msbuild.ProtectedWeb.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\vlad_\OneDrive\Рабочий стол\ProtectedWeb2\ProtectedWeb\obj\Debug\net6.0\staticwebassets\msbuild.build.ProtectedWeb.props
+C:\Users\vlad_\OneDrive\Рабочий стол\ProtectedWeb2\ProtectedWeb\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProtectedWeb.props
+C:\Users\vlad_\OneDrive\Рабочий стол\ProtectedWeb2\ProtectedWeb\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProtectedWeb.props
+C:\Users\vlad_\OneDrive\Рабочий стол\ProtectedWeb2\ProtectedWeb\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\vlad_\OneDrive\Рабочий стол\ProtectedWeb2\ProtectedWeb\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\vlad_\OneDrive\Рабочий стол\ProtectedWeb2\ProtectedWeb\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\vlad_\OneDrive\Рабочий стол\ProtectedWeb2\ProtectedWeb\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\vlad_\OneDrive\Рабочий стол\ProtectedWeb2\ProtectedWeb\obj\Debug\net6.0\scopedcss\bundle\ProtectedWeb.styles.css
+C:\Users\vlad_\OneDrive\Рабочий стол\ProtectedWeb2\ProtectedWeb\obj\Debug\net6.0\scopedcss\projectbundle\ProtectedWeb.bundle.scp.css
+C:\Users\vlad_\OneDrive\Рабочий стол\ProtectedWeb2\ProtectedWeb\obj\Debug\net6.0\ProtectedWeb.csproj.CopyComplete
+C:\Users\vlad_\OneDrive\Рабочий стол\ProtectedWeb2\ProtectedWeb\obj\Debug\net6.0\ProtectedWeb.genruntimeconfig.cache
+C:\Users\vlad_\OneDrive\Рабочий стол\ProtectedWeb2\ProtectedWeb\obj\Debug\net6.0\ref\ProtectedWeb.dll
+C:\Users\vlad_\OneDrive\Рабочий стол\ЯГТУ\Дидковская\ProtectedWeb2\ProtectedWeb\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\vlad_\OneDrive\Рабочий стол\ЯГТУ\Дидковская\ProtectedWeb2\ProtectedWeb\bin\Debug\net6.0\appsettings.json
+C:\Users\vlad_\OneDrive\Рабочий стол\ЯГТУ\Дидковская\ProtectedWeb2\ProtectedWeb\bin\Debug\net6.0\ProtectedWeb.staticwebassets.runtime.json
+C:\Users\vlad_\OneDrive\Рабочий стол\ЯГТУ\Дидковская\ProtectedWeb2\ProtectedWeb\bin\Debug\net6.0\ProtectedWeb.exe
+C:\Users\vlad_\OneDrive\Рабочий стол\ЯГТУ\Дидковская\ProtectedWeb2\ProtectedWeb\bin\Debug\net6.0\ProtectedWeb.deps.json
+C:\Users\vlad_\OneDrive\Рабочий стол\ЯГТУ\Дидковская\ProtectedWeb2\ProtectedWeb\bin\Debug\net6.0\ProtectedWeb.runtimeconfig.json
+C:\Users\vlad_\OneDrive\Рабочий стол\ЯГТУ\Дидковская\ProtectedWeb2\ProtectedWeb\bin\Debug\net6.0\ProtectedWeb.dll
+C:\Users\vlad_\OneDrive\Рабочий стол\ЯГТУ\Дидковская\ProtectedWeb2\ProtectedWeb\bin\Debug\net6.0\ProtectedWeb.pdb
+C:\Users\vlad_\OneDrive\Рабочий стол\ЯГТУ\Дидковская\ProtectedWeb2\ProtectedWeb\bin\Debug\net6.0\Humanizer.dll
+C:\Users\vlad_\OneDrive\Рабочий стол\ЯГТУ\Дидковская\ProtectedWeb2\ProtectedWeb\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\vlad_\OneDrive\Рабочий стол\ЯГТУ\Дидковская\ProtectedWeb2\ProtectedWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\vlad_\OneDrive\Рабочий стол\ЯГТУ\Дидковская\ProtectedWeb2\ProtectedWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\vlad_\OneDrive\Рабочий стол\ЯГТУ\Дидковская\ProtectedWeb2\ProtectedWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\vlad_\OneDrive\Рабочий стол\ЯГТУ\Дидковская\ProtectedWeb2\ProtectedWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\vlad_\OneDrive\Рабочий стол\ЯГТУ\Дидковская\ProtectedWeb2\ProtectedWeb\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\vlad_\OneDrive\Рабочий стол\ЯГТУ\Дидковская\ProtectedWeb2\ProtectedWeb\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\vlad_\OneDrive\Рабочий стол\ЯГТУ\Дидковская\ProtectedWeb2\ProtectedWeb\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\vlad_\OneDrive\Рабочий стол\ЯГТУ\Дидковская\ProtectedWeb2\ProtectedWeb\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\vlad_\OneDrive\Рабочий стол\ЯГТУ\Дидковская\ProtectedWeb2\ProtectedWeb\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\vlad_\OneDrive\Рабочий стол\ЯГТУ\Дидковская\ProtectedWeb2\ProtectedWeb\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\vlad_\OneDrive\Рабочий стол\ЯГТУ\Дидковская\ProtectedWeb2\ProtectedWeb\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\vlad_\OneDrive\Рабочий стол\ЯГТУ\Дидковская\ProtectedWeb2\ProtectedWeb\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\vlad_\OneDrive\Рабочий стол\ЯГТУ\Дидковская\ProtectedWeb2\ProtectedWeb\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\vlad_\OneDrive\Рабочий стол\ЯГТУ\Дидковская\ProtectedWeb2\ProtectedWeb\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\vlad_\OneDrive\Рабочий стол\ЯГТУ\Дидковская\ProtectedWeb2\ProtectedWeb\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\vlad_\OneDrive\Рабочий стол\ЯГТУ\Дидковская\ProtectedWeb2\ProtectedWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\vlad_\OneDrive\Рабочий стол\ЯГТУ\Дидковская\ProtectedWeb2\ProtectedWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\vlad_\OneDrive\Рабочий стол\ЯГТУ\Дидковская\ProtectedWeb2\ProtectedWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\vlad_\OneDrive\Рабочий стол\ЯГТУ\Дидковская\ProtectedWeb2\ProtectedWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\vlad_\OneDrive\Рабочий стол\ЯГТУ\Дидковская\ProtectedWeb2\ProtectedWeb\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\vlad_\OneDrive\Рабочий стол\ЯГТУ\Дидковская\ProtectedWeb2\ProtectedWeb\bin\Debug\net6.0\Npgsql.dll
+C:\Users\vlad_\OneDrive\Рабочий стол\ЯГТУ\Дидковская\ProtectedWeb2\ProtectedWeb\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\vlad_\OneDrive\Рабочий стол\ЯГТУ\Дидковская\ProtectedWeb2\ProtectedWeb\bin\Debug\net6.0\SixLabors.ImageSharp.dll
+C:\Users\vlad_\OneDrive\Рабочий стол\ЯГТУ\Дидковская\ProtectedWeb2\ProtectedWeb\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\vlad_\OneDrive\Рабочий стол\ЯГТУ\Дидковская\ProtectedWeb2\ProtectedWeb\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\vlad_\OneDrive\Рабочий стол\ЯГТУ\Дидковская\ProtectedWeb2\ProtectedWeb\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\vlad_\OneDrive\Рабочий стол\ЯГТУ\Дидковская\ProtectedWeb2\ProtectedWeb\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\vlad_\OneDrive\Рабочий стол\ЯГТУ\Дидковская\ProtectedWeb2\ProtectedWeb\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\vlad_\OneDrive\Рабочий стол\ЯГТУ\Дидковская\ProtectedWeb2\ProtectedWeb\obj\Debug\net6.0\ProtectedWeb.csproj.AssemblyReference.cache
+C:\Users\vlad_\OneDrive\Рабочий стол\ЯГТУ\Дидковская\ProtectedWeb2\ProtectedWeb\obj\Debug\net6.0\ProtectedWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vlad_\OneDrive\Рабочий стол\ЯГТУ\Дидковская\ProtectedWeb2\ProtectedWeb\obj\Debug\net6.0\ProtectedWeb.AssemblyInfoInputs.cache
+C:\Users\vlad_\OneDrive\Рабочий стол\ЯГТУ\Дидковская\ProtectedWeb2\ProtectedWeb\obj\Debug\net6.0\ProtectedWeb.AssemblyInfo.cs
+C:\Users\vlad_\OneDrive\Рабочий стол\ЯГТУ\Дидковская\ProtectedWeb2\ProtectedWeb\obj\Debug\net6.0\ProtectedWeb.csproj.CoreCompileInputs.cache
+C:\Users\vlad_\OneDrive\Рабочий стол\ЯГТУ\Дидковская\ProtectedWeb2\ProtectedWeb\obj\Debug\net6.0\ProtectedWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vlad_\OneDrive\Рабочий стол\ЯГТУ\Дидковская\ProtectedWeb2\ProtectedWeb\obj\Debug\net6.0\ProtectedWeb.RazorAssemblyInfo.cache
+C:\Users\vlad_\OneDrive\Рабочий стол\ЯГТУ\Дидковская\ProtectedWeb2\ProtectedWeb\obj\Debug\net6.0\ProtectedWeb.RazorAssemblyInfo.cs
+C:\Users\vlad_\OneDrive\Рабочий стол\ЯГТУ\Дидковская\ProtectedWeb2\ProtectedWeb\obj\Debug\net6.0\staticwebassets\msbuild.ProtectedWeb.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\vlad_\OneDrive\Рабочий стол\ЯГТУ\Дидковская\ProtectedWeb2\ProtectedWeb\obj\Debug\net6.0\staticwebassets\msbuild.build.ProtectedWeb.props
+C:\Users\vlad_\OneDrive\Рабочий стол\ЯГТУ\Дидковская\ProtectedWeb2\ProtectedWeb\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProtectedWeb.props
+C:\Users\vlad_\OneDrive\Рабочий стол\ЯГТУ\Дидковская\ProtectedWeb2\ProtectedWeb\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProtectedWeb.props
+C:\Users\vlad_\OneDrive\Рабочий стол\ЯГТУ\Дидковская\ProtectedWeb2\ProtectedWeb\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\vlad_\OneDrive\Рабочий стол\ЯГТУ\Дидковская\ProtectedWeb2\ProtectedWeb\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\vlad_\OneDrive\Рабочий стол\ЯГТУ\Дидковская\ProtectedWeb2\ProtectedWeb\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\vlad_\OneDrive\Рабочий стол\ЯГТУ\Дидковская\ProtectedWeb2\ProtectedWeb\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\vlad_\OneDrive\Рабочий стол\ЯГТУ\Дидковская\ProtectedWeb2\ProtectedWeb\obj\Debug\net6.0\scopedcss\bundle\ProtectedWeb.styles.css
+C:\Users\vlad_\OneDrive\Рабочий стол\ЯГТУ\Дидковская\ProtectedWeb2\ProtectedWeb\obj\Debug\net6.0\scopedcss\projectbundle\ProtectedWeb.bundle.scp.css
+C:\Users\vlad_\OneDrive\Рабочий стол\ЯГТУ\Дидковская\ProtectedWeb2\ProtectedWeb\obj\Debug\net6.0\ProtectedWeb.csproj.CopyComplete
+C:\Users\vlad_\OneDrive\Рабочий стол\ЯГТУ\Дидковская\ProtectedWeb2\ProtectedWeb\obj\Debug\net6.0\ProtectedWeb.dll
+C:\Users\vlad_\OneDrive\Рабочий стол\ЯГТУ\Дидковская\ProtectedWeb2\ProtectedWeb\obj\Debug\net6.0\refint\ProtectedWeb.dll
+C:\Users\vlad_\OneDrive\Рабочий стол\ЯГТУ\Дидковская\ProtectedWeb2\ProtectedWeb\obj\Debug\net6.0\ProtectedWeb.pdb
+C:\Users\vlad_\OneDrive\Рабочий стол\ЯГТУ\Дидковская\ProtectedWeb2\ProtectedWeb\obj\Debug\net6.0\ProtectedWeb.genruntimeconfig.cache
+C:\Users\vlad_\OneDrive\Рабочий стол\ЯГТУ\Дидковская\ProtectedWeb2\ProtectedWeb\obj\Debug\net6.0\ref\ProtectedWeb.dll
